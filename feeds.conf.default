@@ -1,5 +1,1 @@
-src-git packages https://github.com
-src-git luci https://github.com
-src-git routing https://github.com
-src-git telephony https://github.com
 src-git passwall2 https://github.com
