@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: 1. 检出当前仓库配置
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
     - name: 2. 初始化 Ubuntu 编译环境
       env:
